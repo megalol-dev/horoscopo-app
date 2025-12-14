@@ -15,7 +15,7 @@ El objetivo de esta web es entender y aplicar:
 - Persistencia de datos al recargar la página o cerrar el navegador.
 - Uso de **PHP como lenguaje principal** para el control de la lógica de la aplicación.
 
-Este proyecto ha sido desarrollado como ejercicio práctico de la asignatura de **Web en Entorno Cliente / Servidor**.
+Este proyecto ha sido desarrollado como ejercicio práctico de la asignatura de **Desarrollo Web Servidor**.
 
 ---
 
@@ -90,6 +90,4 @@ Ha servido para consolidar conceptos clave como:
 - PHP
 - Estructura básica de una aplicación web
 
----
 
-📚 Proyecto realizado como práctica de aprendizaje.
