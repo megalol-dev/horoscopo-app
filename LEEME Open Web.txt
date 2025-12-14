@@ -1,0 +1,33 @@
+INSTRUCCIONES PARA ARRANCAR LA WEB (ENTORNO LOCAL)
+
+Este proyecto utiliza PHP con el servidor integrado de PHP.
+No es necesario usar XAMPP ni Apache.
+
+PASOS PARA ARRANCAR EL PROYECTO:
+
+1. Abrir Visual Studio Code
+2. Abrir la carpeta del proyecto
+3. Abrir una terminal (Ctrl + ñ)
+
+4. Ejecutar el siguiente comando:
+
+   php -S localhost:8000
+
+5. Abrir un navegador web y acceder a la dirección:
+
+   http://localhost:8000
+
+IMPORTANTE:
+- Cada vez que se cierre Visual Studio Code, el servidor PHP se apaga.
+- Para volver a usar la web, es necesario ejecutar de nuevo el comando anterior.
+- El proyecto usa sesiones y cookies, por lo que algunas preferencias se conservan al cerrar el navegador.
+
+
+SESION DEL USURIO "ROOT"
+Si quieres entrar al panel de control puedes registrar un usurio o usar el usuario 
+tipo "root" ya que en verdad en esta web no hemos usado ningun tipo de usuario root.
+- Nombre: José Luis
+- Pass: Squall84z
+
+
+FIN
